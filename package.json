@@ -1,7 +1,7 @@
 {
-  "name": "Text Editor",
+  "name": "JATE",
   "version": "1.0.0",
-  "description": "",
+  "description": "A PWA text editor that stores text, works offline, and is installable",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd server && npm run server\" \"cd client && npm run dev\"",
