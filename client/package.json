@@ -7,6 +7,9 @@
   },
   "author": "2U",
   "license": "UNLICENSED",
+  "engines": {
+    "node": "16.19.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/plugin-transform-runtime": "^7.15.0",
