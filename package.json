@@ -15,7 +15,8 @@
   "author": "Benjamin Cha",
   "license": "ISC",
   "engines": {
-    "node": "16.19.0"
+    "node": "16.19.0",
+    "npm": "8.19.3"
   },
   "dependencies": {
     "if-env": "^1.0.4"
