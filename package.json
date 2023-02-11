@@ -12,8 +12,11 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "",
+  "author": "Benjamin Cha",
   "license": "ISC",
+  "engines": {
+    "node": "16.19.0"
+  },
   "dependencies": {
     "if-env": "^1.0.4"
   },
